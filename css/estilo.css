@@ -29,3 +29,10 @@ body {
     border: 1px solid #ddd;
     margin: 0 auto;
 }
+
+footer{
+    background:gray;
+    color:white;
+    padding:1rem;
+    text-align:center;
+}
