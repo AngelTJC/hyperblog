@@ -7,6 +7,10 @@ body {
     padding: 0;
 }
 
+#post{
+    padding: 1rem;
+}
+
 #cabecera {
     display: flex;
     justify-items: flex-start;
