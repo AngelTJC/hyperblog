@@ -39,6 +39,9 @@ body {
     margin: 0 auto;
 }
 
-#post{
-    padding: 1rem;
+footer{
+    background:gray;
+    color:white;
+    padding:1rem;
+    text-align:center;
 }
