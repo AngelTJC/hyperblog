@@ -44,8 +44,9 @@ body {
 }
 
 footer{
-    background:gray;
-    color:white;
+    background:#b3b3b3;
+    color:rgb(21, 5, 107);
     padding:1rem;
     text-align:center;
+    font-weight: bold;
 }
