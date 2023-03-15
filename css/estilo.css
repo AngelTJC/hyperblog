@@ -59,6 +59,10 @@ body {
     object-fit: cover;
 }
 
+.img_gatos{
+    width: 100%;
+}
+
 footer {
     background: #b3b3b3;
     color: rgb(21, 5, 107);
